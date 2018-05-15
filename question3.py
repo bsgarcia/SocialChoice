@@ -7,7 +7,6 @@ import libchoice
 import schulze
 
 
-
 def main():
 
     dataset = {
